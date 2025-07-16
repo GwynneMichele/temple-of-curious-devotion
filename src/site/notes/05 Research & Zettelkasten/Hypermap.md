@@ -33,7 +33,7 @@ A Hypermap is:
 - **Personal**: this map is built in public, but for private ends
 - **Speculative**: it doesn't just document ideas—it makes them
 
-I use the word "Hypermap" to signal both **hypertext** and **hyperreality**—two core themes of my research and life.
+I use the word "Hypermap" to signal both **hypertext** and **[[hyperreality\|hyperreality]]**—two core themes of my research and life.
 
 ---
 
@@ -41,7 +41,7 @@ I use the word "Hypermap" to signal both **hypertext** and **hyperreality**—tw
 
 You’ll find:
 
-- Notes from my research into *hyperreal religion*, *mythopoetics*, *gods as algorithms*, and more
+- Notes from my research into *[[hyperreal religion\|hyperreal religion]]*, *[[mythopoetics\|mythopoetics]]*, *[[gods as algorithms\|gods as algorithms]]*, and more
 - Fragments of philosophical autotheory
 - Oblique entry points into courses I’m writing, games I’m building, and ideas I’m testing
 - Connections that don’t follow standard logic, but **emergent narrative gravity**

@@ -8,7 +8,7 @@
 
 # 🗺️ Start Here
 
-Welcome, wanderer. This is a [[Hypermap\|Hypermap]] of my mind, a [[Second Brain\|Second Brain]] even.
+Welcome, wanderer. This is a [[05 Research & Zettelkasten/Hypermap\|Hypermap]] of my mind, a [[Second Brain\|Second Brain]] even.
 
 It's a public Obsidian vault of entangled ideas, speculative theology, philosophical heresies, digital pedagogy, and research-in-progress.
 
