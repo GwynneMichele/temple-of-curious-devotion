@@ -85,8 +85,6 @@ We lose _parts of ourselves_.
 
 What we call “technology” is often just a fancy word for remembering better, thinking farther, feeling deeper, creating wider.
 
-Thanks for reading Our Augmented Minds! Subscribe for free to receive new posts and support my work.
-
 _My childhood memories are sparse. Fuzzy._
 
 Dissociation does that.
