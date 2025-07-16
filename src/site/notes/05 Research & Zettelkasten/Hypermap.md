@@ -67,6 +67,10 @@ It doesn't replace writing in notebooks for me - I find I process things differe
 
 The Hypermap is more than a map because it helps me to redesign the territory that it serves as a map of.  I think through my fingers, then reread my thoughts, revising them - this is where digital wins over paper - and connecting those thoughts to other through that handy Obsidian linking mechanism.
 
+It's a place for half-formed thoughts, incubating ideas, and cultivating cross-pollination to birth new projects.
+
+My Hypermap is a part of my [[05 Research & Zettelkasten/Extended Mind Thesis\|Extended Mind]] - the idea from Andy Clark and David Chalmers that our mind extends beyond our brain and even beyond our body.  It's not just a place to store words, it's a way to actively engage in thinking.
+
 ---
 
 ## What is a Hypermap?
@@ -83,41 +87,3 @@ A Hypermap is:
 - **Speculative**: it doesn't just document ideas—it makes them
 
 I use the word "Hypermap" to signal both **hypertext** and **[[hyperreality\|hyperreality]]**—two core themes of my research and life.
-
----
-
-## What’s in this Map?
-
-You’ll find:
-
-- Notes from my research into *[[hyperreal religion\|hyperreal religion]]*, *[[mythopoetics\|mythopoetics]]*, *[[gods as algorithms\|gods as algorithms]]*, and more
-- Fragments of philosophical autotheory
-- Oblique entry points into courses I’m writing, games I’m building, and ideas I’m testing
-- Connections that don’t follow standard logic, but **emergent narrative gravity**
-
----
-
-## Why Map Like This?
-
-Because traditional knowledge systems are too linear.  
-Because my brain isn't a library - it’s a **cathedral of tangled string**.  
-Because learning in public is a kind of sacred exposure.  
-Because the act of mapping is itself **magical**.
-
----
-
-## 🔗 Related Notes
-
-- [[00 Homebase/1 Start Here\|Start Here]]
-- [[05 Research & Zettelkasten/Second Brains\|Second Brains]]
-- [[All Religions Are Fan Fiction\|All Religions Are Fan Fiction]]
-- [[Learning as Magic\|Learning as Magic]]
-- [[Gods as Algorithms\|Gods as Algorithms]]
-- [[Sacred Play\|Sacred Play]]
-
----
-
-> “A Hypermap does not flatten thought into a path.  
-> It makes the terrain strange again.”  
-> — *The Curious Hermit*
-
