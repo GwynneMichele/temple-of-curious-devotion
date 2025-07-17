@@ -10,6 +10,14 @@ Crash Course is GREAT for that.  10 minute videos.  Covering all the basics so y
 
 So anyway... economics... going through Crash Course and building a very basic mental framework to build upon once I get into the more esoteric ideas like [[05 Research & Zettelkasten/Meme Economics\|Meme Economics]] and the [[Attention Economy\|Attention Economy]].  The videos are short so there will only be one or two core ideas per video, but they're all nodes in a network that's useful for simulating new ideas.
 
-Video 1: https://youtu.be/3ez10ADR_gM?si=2gLd8R-_DLMUNvZn 
+Video 1 - Intro to Economics: https://youtu.be/3ez10ADR_gM?si=2gLd8R-_DLMUNvZn 
 Idea that sticks in my head: [[05 Research & Zettelkasten/Opportunity Cost\|Opportunity Cost]]
+I was tickled to see the Muppets, including Kermit the Frog, show up in the first episode of this series on economics.  It's the delightful sort of coincidence that is worth noting not to become attached to the idea of serendipity, but to see if there's connections worth exploring there.
+"Economics is the study of people and choices." 
+
+Video 2 - Specialization and Trade: https://youtu.be/NI9TLDIPVcs?si=D1SBIZSkB11aISvh
+"Economics is the study of scarcity and choices."
+Adam Smith - specialization/division of labor is what made countries more wealthy.  Each worker can focus on what they do best, as can each company.  Labor is divided among many people.  Industrialization and technology have increased the amount of specialization possible.  Specialization makes people more productive; trade makes them better off.
+PPF - Production Possibilities Frontier
+
 
