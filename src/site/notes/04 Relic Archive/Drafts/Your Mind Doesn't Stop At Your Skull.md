@@ -11,8 +11,8 @@ Thoughts on entering the age of AI
 
 ## 📚 Sources & Sparks
 
-[[05 Research & Zettelkasten/Extended Mind Thesis\|Extended Mind Thesis]]
-[[05 Research & Zettelkasten/Second Brains\|Second Brains]]
+[[05 Notes In Progress/Extended Mind Thesis\|Extended Mind Thesis]]
+[[05 Notes In Progress/Second Brains\|Second Brains]]
 [[Cognitive Automation\|Cognitive Automation]] https://youtu.be/H5CNk1A_24g?si=oGYY7VB2ABrLs_Xj - TED Talk by [[Alif Jakir\|Alif Jakir]] AI researcher https://www.alifjakir.com/
 ### NotebookLM
 https://notebooklm.google.com/notebook/f193df53-ec79-4076-ac32-45a026d2950f 

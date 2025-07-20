@@ -5,10 +5,10 @@
 # Temple of Curious Devotion
 
 *This is the center of the labyrinth.  All paths return here.*
-
+#noteinprogress 
 # Start Here
 
-Welcome, wanderer. This is a [[05 Research & Zettelkasten/Hypermap\|Hypermap]] of my mind, a [[05 Research & Zettelkasten/Second Brains\|Second Brain]] even.
+Welcome, wanderer. This is a [[05 Notes In Progress/Hypermap\|Hypermap]] of my mind, a [[05 Notes In Progress/Second Brains\|Second Brain]] even.
 
 It's a public Obsidian vault of entangled ideas, speculative theology, philosophical heresies, digital pedagogy, and research-in-progress.
 
