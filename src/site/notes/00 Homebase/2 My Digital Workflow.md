@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/00-homebase/2-my-digital-workflow/"}
 ---
 
-Connected ideas: [[05 Notes In Progress/Hypermap\|Hypermap]], [[05 Notes In Progress/Second Brains\|Second Brains]], [[02 Pantheon/Our Augmented Minds\|Our Augmented Minds]]
+Connected ideas: [[05 Notes In Progress/Hypermap\|Hypermap]], [[05 Notes In Progress/Second Brains\|Second Brains]], [[02 Projects/Our Augmented Minds\|Our Augmented Minds]]
 #noteinprogress
 
 # Braindump
@@ -28,7 +28,7 @@ Obsidian also gives a variety of ways to organize and connect your notes.  You c
 
 Then there's linking.  Put brackets around a word or phrase to turn it into a link.  If a note by that name exists, it'll be a live link, otherwise, it'll be a ghost link and you just have to click on it to create a note by that name.  Part of my review process when going through random notes is adding more links to create new tangents and connections.
 
-As I keep doing this day after day, capture and curation, ideas start to grow.  [[02 Pantheon/Our Augmented Minds\|Our Augmented Minds]] is the biggest idea in this vault so far - not surprising since that's my main Substack focus right now.  As my curiosity shifts to other interests, those ideas will begin to grow as well, and I won't have to worry about losing any of them because I've got them in a basic text file format with multiple backups and if we're at a point where I can't access ANY of my data, I'll have way more to worry about than lost notes.
+As I keep doing this day after day, capture and curation, ideas start to grow.  [[02 Projects/Our Augmented Minds\|Our Augmented Minds]] is the biggest idea in this vault so far - not surprising since that's my main Substack focus right now.  As my curiosity shifts to other interests, those ideas will begin to grow as well, and I won't have to worry about losing any of them because I've got them in a basic text file format with multiple backups and if we're at a point where I can't access ANY of my data, I'll have way more to worry about than lost notes.
 
 But Obsidian is just *part* of my digital workflow.  It works as an effective tool for capturing and working with ideas in the tangential sort of way that my brain just naturally works.  I can keep clusters of ideas more discrete from each other by keeping them in separate vaults - I've got a vault I used for about 5 years that's full of notes on what I'd been working on in those years, but that was personal development work that I developed experimentally through figuring out my own shit and that I shared through my Facebook following.  I've also got a vault housing my fiction, one housing my solo TTRPG stuff, and one housing my language learning stuff - I basically built a Chinese micro-dictionary in Obsidian when I started learning Chinese.  
 

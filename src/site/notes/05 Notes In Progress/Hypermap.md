@@ -8,7 +8,7 @@ This vault is a **Hypermap of my mind**.
 
 Not a map *of* a territory, but a map of the connections between ideas that bounce around in my mind.
 
-It's one of the ways that I augment my mind - my newsletter [[02 Pantheon/Our Augmented Minds\|Our Augmented Minds]] is all about exploring that.  [[04 Relic Archive/Drafts/Your Mind Doesn't Stop At Your Skull\|Your Mind Doesn't Stop At Your Skull]] - it extends not just into the body, but beyond it.  Losing a notebook feels like losing a part of yourself because our brains are so adept at using our environment to extend and augment our minds.
+It's one of the ways that I augment my mind - my newsletter [[02 Projects/Our Augmented Minds\|Our Augmented Minds]] is all about exploring that.  [[04 Relic Archive/Drafts/Your Mind Doesn't Stop At Your Skull\|Your Mind Doesn't Stop At Your Skull]] - it extends not just into the body, but beyond it.  Losing a notebook feels like losing a part of yourself because our brains are so adept at using our environment to extend and augment our minds.
 
 I get an idea, I make a note, I start to write my thoughts about the idea, then I head off to other tools to dig into the idea.  Google searches, chats with bots, and deep dives into the University Library archives and databases.  [Jstor] is my bestie.
 
