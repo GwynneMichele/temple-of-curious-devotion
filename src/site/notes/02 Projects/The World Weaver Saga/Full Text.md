@@ -60,59 +60,41 @@ The offerings of her threads served her well.
 ---
 
 Episode 2
-Ari was born in winter.  
+Ari shook her head and looked around the shrine.  She didn't remember coming in here, or even preparing the food that was now sitting on the altar, but that didn't surprise her.  The offerings were such a habit now it was just automatic.  Life of a novice of The Winter Abbey.
 
-Her mother, Hanah, was pleased.  
+She walked out of the shrine, just a small stone building, and she bumped into the most beautiful woman she had ever seen in her entire life.
 
-Her father was not.  
+"Oh, I'm so sorry," a sweet and lilting voice said.  "I am so, so sorry.  I wasn't paying attention to where I was going.  I'm sorry!"
 
-Ward was a believer, and the prophecy said The World Weaver would be born of winter.  
+"It's okay," Ari said, "I wasn't exactly paying attention myself."
 
-Hanah told him to knock off his nonsense and be happy for a healthy baby.
+"Hi, I'm Sabine," the woman said, sticking her hand out for a shake.  "I'm new here, and I'm kind of lost."
 
-And Ari was very healthy.  It wasn't at all surprising when she started showing a knack for ice magic - sorcery ran in both sides of the family.  Ward was a healer, born in spring, and Hanah was a researcher in solid state alchemy, a field of study her own winterborn sorcery was especially well-suited for.
+Ari took the hand, and felt a shock of energy flow up her arm and flood her body.  "I... I'm Ari," she said, "And, uh, I guess I could show you around.  What Abbey do you belong to?"
 
-Prophecies are quickly forgotten as life with an infant goes on.  Lack of sleep leaves little room for such worries, and the misgivings Ward had at the birth of his daughter on a particularly cold and stormy winter night were quickly replaced by the day-to-day antics of a child whose winterborn curiosity often led her straight into fire.
+"I'm springborn," Sabine said.  "And I'm trying to find the Gathering Chapel."
 
----
-Ari released the thread of memory she'd been holding onto.  It wasn't a thread she could influence very strongly.  She'd been there, but as an infant, she'd had no cognition of choice, the tiny brain still operating purely on instinct and need.   
+Ari laughed.  "Well, this is definitely not the Gathering Chapel.  This is the Chapel of the Winter Crone."  She watched Sabine's eyes go wide.
 
-Changing threads operated on choice.  She could step into any thread, but she only had the influence of the version of herself that she stepped into.  She had to find the threads that would give her the power.  Infancy was not one of those threads.
+"Oh, you're a winterborn!" Sabine said, excitement bubbling in her voice.  "There aren't many winterborn here!"
 
-As Ari brought herself back to the present, she could feel the presence of another and she immediately went on guard, quickly standing and turning to face the intruder.
+It was true.  Winterborn tended towards the more academic and analytical magical areas of study, not the mystical ones that were taught at the abbeys and monasteries scattered around the world.  But Ari had always felt the pull, and also knew that she needed more control of her emotions, something she hadn't been able to find anywhere else so far.
 
-"Hey, Ari, chill," Vance said.
+Ari pointed down the walkway, away from the far edge of The Winter Abbey where they were currently standing, towards the central Gathering Chapel.  The complex was huge - Abbeys for each season were arranged in a wheel with buildings for study and practice as well as residential quarters for the novices and the visiting monks and nuns who came from the other abbeys and monasteries to teach the novices until they were ready to choose their specialty - or return to the world as was sometimes the case.
 
-Ari relaxed.  Vance was her roommate.  A monk of the Order.  He was studying Aleatoric Sorcery as well.
+The season that one was born in has great influence on one's magical abilities, so part of the novice year was honing the particular talents that one was born with, while also learning to access and balance the magic of the other seasons.  By the end of one's novice period, a specialty would be chosen, and a transfer to a monastery or abbey of that specialty would be arranged.
 
-"Visiting threads again?" he said.
-
-Ari nodded.  She didn't tell him what threads she was exploring, or why.  Or that they were the forbidden threads of the past.  The shielding she'd had to do to prevent the Headmaster from detecting her intrusions in threads that were protected by the Chaos Accords had drained her and she didn't have much space left in her head for words at the moment.
-
-"You know it's not safe to do that alone, Ari," Vance sighed.  He was fond of Ari, but her obsession with her studies scared him at times.  "Brother Stavius ..."
-
-Ari cut him off.  "I know.  I was just curious is all.  Not like I can do anything about the threads anyway."  She didn't tell him she'd already figured out how to counteract the dampening ring that all novitiates at the War Abbey were given to prevent them from manipulating threads before they were fully trained, experienced, and sanctioned to do so.  Working with the threads of time, space, and reality itself was precarious work.
-
-"Well, we need to get to Sermon anyway. ," Vance said. "Let's go."
+The novitiate lasted from three to five years, and Ari had only just finished her first year of studies.  It was spring now, so not surprising to see a brand new springborn.  Just surprising she'd gotten so far lost.  
 
 ---
-Ari pulled herself further back.  So many threads.  It was getting harder to remember who she was, easier to lose herself in them as she relived the various threads of the lives that she'd traversed to get where she was.
 
-The World Weaver.  
+Ari pulled her awareness back to the War Abbey.  Brother Stavius was droning on and on about the Chaos Accords again, and the importance of not meddling with the threads, but instead observing them and determining what threads would lead to optimal outcomes.  A basic ethics lecture she could repeat by heart at this point.
 
-But it still wasn't enough.
+She shook her head, letting go of the thread of memory where she'd first met Sabine.  That was a thread she was terrified of ruining and so was one she never visited.  She wasn't sure how she'd found herself there - she'd never accidentally drifted into a thread like that before.  It shouldn't even be possible.  Threadwalking was conscious, by necessity.  It's not something that could just accidentally happen.  She had to stop.  She couldn't keep doing this.  She'd talk to Brother Stavius after Sermon.  He could help.  He'd be angry she'd been doing it, but he'd help her stop.
 
-She still hadn't found the right thread.
+---
 
-The one that would give her the power she needed.
-
-A flit of the wrist and the life thread of a young believer twitched.  The girl brought a plate of food to the shrine that she tended.
-
-Ari consumed the food in the way that only The World Weaver could.
-
-Reweaving reality required a well-fed body.
-
-The offerings of her threads served her well.
+Ari sat at her loom and snipped a thread.  That knot there just would not do, and sometimes, it was better to splice in an entirely new thread than to try to influence a brittle one.
 
 ---
 
