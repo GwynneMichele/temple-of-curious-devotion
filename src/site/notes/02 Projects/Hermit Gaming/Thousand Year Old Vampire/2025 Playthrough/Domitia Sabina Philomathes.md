@@ -27,14 +27,19 @@ I taught Claudia how to read and write by candlelight, copying scrolls to sell t
 I was inducted in a mystery school, the ceremony conducted in a secret chamber under a temple in the south of Alexandria.  
 ### Experience 2
 ### Experience 3
+## ~~Memory 4~~
+### ~~Experience 1~~
+~~I finally birthed a son.  Maybe now my husband will let me be.  His shriveled dick barely functions anyway.~~
+
+### ~~Experience 2~~
+~~The hunger was like nothing I'd ever felt before.  Marcus came to me in the night, crying with bad dreams, and the next thing I remember, I was holding his limp body, my hunger abated.~~
+### ~~Experience 3~~
+~~Lucilla was always a perceptive child.  She looked upon me with suspicion after the death of her younger brother who she'd been closer to than anyone else.  It broke my heart to drain her, but the bloodthirst won out over the love I had for her.~~
+
 ## Memory 4
 ### Experience 1
-I finally birthed a son.  Maybe now my husband will let me be.  His shriveled dick barely functions anyway.
-
 ### Experience 2
-The hunger was like nothing I'd ever felt before.  Marcus came to me in the night, crying with bad dreams, and the next thing I remember, I was holding his limp body, my hunger abated.
 ### Experience 3
-Lucilla was always a perceptive child.  She looked upon me with suspicion after the death of her younger brother who she'd been closer to than anyone else.  It broke my heart to drain her, but the bloodthirst won out over the love I had for her.
 
 ## Memory 5
 ### Experience 1
@@ -44,9 +49,9 @@ For weeks, it seemed like someone was following me as I made my way through the 
 
 # Skills
 - _Scholar of Lost Tongues_    
-- _Keeper of Secrets_    
+- _Star Knowledge_    
 - _Fire-Resistant Hands_
-- _Bloodthirsty_ :LiCheck:
+- ~~_Bloodthirsty_ :LiCheck:~~
 # Resources
 - _Bundles of scrolls_    
 - _Hidden chamber beneath the Serapeum_    
@@ -54,7 +59,7 @@ For weeks, it seemed like someone was following me as I made my way through the 
 # Characters
 ## Mortals
 * ~~Marcus (7) - my only son.  Earnest, dutiful, and so much like his father it aches.~~
-* Claudia (14) - my eldest daughter.  Bookish and clever.  She helps me copy the scrolls I've smuggled.
+* ~~Claudia (14) - my eldest daughter.  Bookish and clever.  She helps me copy the scrolls I've smuggled.~~
 * ~~Lucilla (11) - my youngest daughter.  Headstrong and mystical.  Wants to be a priestess of Isis.~~
 ## Immortals
 * Neb-Atem - an ancient Egyptian vampire.  He claims to have witnessed the building of the pyramids.  He may or may not be lying.  He stalks the scholarly places.
@@ -72,6 +77,16 @@ d10-d6
 [5]-[1] = 4
 I move to prompt 5.
 ![Pasted image 20251019163502.png](/img/user/Pasted%20image%2020251019163502.png)
+Roll 3
+d10-d6
+[6]-[1] = 5
+I move to Prompt 10.
+![Pasted image 20251019164145.png](/img/user/Pasted%20image%2020251019164145.png)
+**Roll 4**
+d10-d6
+[6]-[5] = 1 
+I move to prompt 11.
+![Pasted image 20251019165021.png](/img/user/Pasted%20image%2020251019165021.png)
 # Narrative
 I am Domitia Sabina Philomathes.  I was born in Rome and at the age of 12, my father sold me to a decrepit Roman official in order to settle his debts.  I was taken to Alexandria where my husband was sent to administrate the grain shipments back to Rome.  
 
@@ -82,3 +97,7 @@ I was inducted into a mystery school that gathered under the Serapeum at night a
 I'd never known hunger like that before.  That first night, in a frenzy, I drained my dear son Marcus, finding his lifeless body when my mind returned from the feral blood frenzy induced by that hunger.  I mourned, but the loss of children was not unusual.  Easy enough to pass off as sickness, and with no other male heirs, the estate came to me. (Roll 1, Prompt 1)
 
 Lucilla had always been close to Marcus.  She was a perceptive child, and showed signs of being gifted with the _Sight_ at an early age.  She came to me one night, screaming that she knew I'd killed Marcus.  That she'd seen the monster that I'd become.  I tried to reason with her, but as she came closer and closer to me in her anger, all I could smell was the blood, and that raging hunger took me again.  My mind leaves, I become nothing but the monster she said I was, and once again, I came back to myself holding the limp body of one of my children in my arms. (Roll 2, Prompt 5)
+
+I wandered the streets of Alexandria not caring about anything but satiating the hunger for blood.  There was never a shortage of victims.  Time became a blur.  Memories grew fuzzy.  When I came back to the estate, there was nothing left but burnt timbers and rubble.   (It's now approximately 304 CE) (Roll 3, Prompt 10)
+
+The shock of seeing my home in ruins brings me back to myself.  I look at the stars, scratching the depths of my knowledge to remember how they shift and realize it's been a century.  My children are long dead (meta note - I struck the memory of the death of her children in response to the previous prompt, so for all vamp knows, they grew old and died while she was allowing the bloodlust to rule her), I have nothing binding me to the mortal world.  I am free.  This somehow invigorates me.  The hunger for blood sates and I get a glimmer of that hunger for knowledge Neb-Atem claimed to smell in me all those years ago.  (Roll 4, Prompt 11)
